@@ -1,5 +1,6 @@
 def using_concat(this, that)
-  this = ["1", "2"]
-  that = ["3", "4"]
+  this = ["raindrops on roses", "whiskers on kittens"]
+  that = ["sports cars", "flatiron school"]
   this.concat(that)
 end
+
