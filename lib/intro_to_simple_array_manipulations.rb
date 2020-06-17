@@ -9,7 +9,7 @@ def using_insert(this, that)
   this.insert(4, "Python")
 end
 
-def using_uniq(this, that)
+def using_uniq(this)
   this = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   this.uniq
 end
