@@ -10,6 +10,7 @@ def using_insert(this, that)
 end
 
 def using_uniq(this, that)
-  this = ["1", "2", "3", "4", "5", "6", "6"]
+  this = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   this.uniq
 end
+
