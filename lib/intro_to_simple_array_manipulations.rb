@@ -9,6 +9,3 @@ def using_insert(this, that)
   that = ["5"]
   @new_array = this.insert[4](that)
 end
-
-
-  
