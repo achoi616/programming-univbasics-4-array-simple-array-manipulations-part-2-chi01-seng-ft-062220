@@ -13,3 +13,8 @@ def using_uniq(haircuts)
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array = haircuts.uniq
 end
+
+def using_flatten(array)
+  array = [1, 2, [3, 4]]
+  array.flatten
+end
