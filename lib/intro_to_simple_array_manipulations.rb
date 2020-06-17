@@ -6,6 +6,6 @@ end
 
 def using_insert(this, that)
   this = ["1", "2", "3", "4", "6", "7", "8"]
-  that = ["5"]
-  @new_array = that.insert(this)[4]
+  this.insert(4, "5")
 end
+
