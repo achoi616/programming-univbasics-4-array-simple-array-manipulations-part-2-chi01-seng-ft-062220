@@ -18,3 +18,10 @@ def using_flatten(array)
   array = ["Saxophone", "Piano", "Trumpet", ["Violin", "Drums", "Flute"]]
   array.flatten
 end
+
+def using_delete(array, string)
+  array = ["1", "2", "3"]
+  string = ["3", "4", "5"]
+  new_array = array.delete(string)
+end
+
