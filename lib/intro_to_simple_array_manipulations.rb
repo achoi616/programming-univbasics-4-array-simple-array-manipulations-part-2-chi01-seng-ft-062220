@@ -13,4 +13,3 @@ def using_uniq(this, that)
   this = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   this.uniq
 end
-
