@@ -4,8 +4,5 @@ def using_concat(this, that)
   this.concat(that)
 end
 
-def using_insert(array, element)
-  array.insert(element)
-end
 
   
