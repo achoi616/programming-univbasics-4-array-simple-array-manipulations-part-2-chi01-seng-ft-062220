@@ -5,9 +5,10 @@ def using_concat(this, that)
 end
 
 def using_insert(this, that)
-  this = ["1", "2", "3", "4"]
+  this = ["1", "2", "3", "4", "6", "7", "8"]
   that = ["5"]
-  @new_array = this.insert(that)
+  @new_array = this.insert[4](that)
 end
+
 
   
