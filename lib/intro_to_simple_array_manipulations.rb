@@ -13,4 +13,3 @@ def using_uniq(haircuts, new_array)
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array = haircuts.uniq
 end
-
