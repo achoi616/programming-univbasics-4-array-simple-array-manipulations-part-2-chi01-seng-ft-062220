@@ -21,5 +21,6 @@ end
 
 def using_delete(instructors, fired)
   instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-  fired = instructors.delete("Steven")
+  instructors.delete("Steven")
 end
+
