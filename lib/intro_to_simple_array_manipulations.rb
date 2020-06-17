@@ -13,4 +13,3 @@ def using_uniq(this, that)
   this = ["1", "2", "3", "4", "5", "6", "4"]
   this.uniq!
 end
-
