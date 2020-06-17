@@ -3,5 +3,3 @@ def using_concat(@my_favorite_things, that)
   that = ["sports cars", "flatiron school"]
   @my_favorite_things.concat(that)
 end
-
-
