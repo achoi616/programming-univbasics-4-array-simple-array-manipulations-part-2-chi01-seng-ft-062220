@@ -3,3 +3,9 @@ def using_concat(this, that)
   that = ["sports cars", "flatiron school"]
   this.concat(that)
 end
+
+def using_insert(array, element)
+  array.insert(element)
+end
+
+  
