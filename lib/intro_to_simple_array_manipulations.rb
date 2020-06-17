@@ -3,4 +3,3 @@ def using_concat(this, that)
   that = ["sports cars", "flatiron school"]
   this.concat(that)
 end
-
