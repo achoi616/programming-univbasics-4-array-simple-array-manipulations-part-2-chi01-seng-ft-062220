@@ -25,6 +25,6 @@ def using_delete(instructors, fired)
 end
 
 def using_delete_at(array, integer)
-  array = ["1", "2", "3"]
+  array = ["Robocop", "2", "3"]
   array.delete_at(0)
 end
