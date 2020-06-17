@@ -20,6 +20,6 @@ def using_flatten(array)
 end
 
 def using_delete(instructors, fired)
-  instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+  #instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
   instructors.delete("Steven")
 end
