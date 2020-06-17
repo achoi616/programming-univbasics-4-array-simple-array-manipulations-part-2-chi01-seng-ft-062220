@@ -9,7 +9,7 @@ def using_insert(this, that)
   this.insert(4, "Python")
 end
 
-def using_uniq(haircuts, style)
+def using_uniq
   haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array = haircuts.uniq
 end
